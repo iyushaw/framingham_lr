@@ -2,3 +2,5 @@ __pychache__
 env/
 *.pkl
 *.pickle
+*.pyc
+*.png
